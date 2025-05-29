@@ -1,0 +1,6 @@
+<resources>
+    <color name="calculator_primary">#4dabf7</color>
+    <color name="calculator_accent">#51cf66</color>
+    <color name="calculator_danger">#ff6b6b</color>
+    <color name="calculator_secondary">#a8a8a8</color>
+</resources>
